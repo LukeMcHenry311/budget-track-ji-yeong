@@ -1,6 +1,7 @@
 :root {
   --deep-dark: #1e1e1e;
   --gray-2: #363636;
+  --pink: #f5054f;
 }
 
 body {
@@ -41,7 +42,8 @@ tr {
 
 .total {
   font-size: 150%;
-  text-decoration: underline;
+  text-decoration: none;
+  transform: translate(0, 5px);
 }
 
 .form {
@@ -66,4 +68,37 @@ body {
   color: red;
   background-color: var(--gray-2);
   margin-top: 25px;
+}
+
+#top,
+#bottom,
+#left,
+#right {
+  background: white;
+  position: fixed;
+}
+#left,
+#right {
+  top: 0;
+  bottom: 0;
+  width: 10px;
+}
+#left {
+  left: 0;
+}
+#right {
+  right: 0;
+}
+
+#top,
+#bottom {
+  left: 0;
+  right: 0;
+  height: 10px;
+}
+#top {
+  top: 0;
+}
+#bottom {
+  bottom: 0;
 }
