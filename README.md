@@ -8,10 +8,9 @@
 * [Github Link](#github-link)
 * [Deployed Application](#deployed-application)
 * [Collaborations](#collaborations)
-* [Struggles](#struggles)
 
 ## Description
-This application is a blog site, where users can publish their blog posts and comment on other users post as well.
+This application is a budget tracker, the user can add transactions that add funds and subtract funds.
 ## Screenshot
 ![screenshot](https://user-images.githubusercontent.com/82482629/137528480-a0d962f7-0a61-49c0-ba58-e3f05759e938.png)
 ## Instructions
@@ -24,5 +23,3 @@ https://github.com/LukeMcHenry311/budget-track-ji-yeong
 https://ji-yeong.herokuapp.com/
 ## Collaborations
 StackOverflow, Classmates, Blogs, Youtube, Relatives in the field.
-## Struggles
-My biggest struggle for this assignment was user models, it was just hard to visualize for me.
